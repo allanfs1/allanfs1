@@ -13,7 +13,7 @@ Se quiser me conhecer melhor, acesse meu portfólio ou meu blog pessoal ou minha
 
 
 
-## Redes social
+## :chart_with_upwards_trend: Redes social
 <img src="https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white"/><img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/><img src="https://img.shields.io/badge/Pinterest-8D031C.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>
 
 
