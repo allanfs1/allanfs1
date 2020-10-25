@@ -1,4 +1,4 @@
-### Ei, bom ver você 👋
+### Ei, bom ver você <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0178.gif" width="28px>
 
 Se quiser me conhecer melhor, acesse meu portfólio ou meu blog pessoal ou minhas redes sociais abaixo
 
