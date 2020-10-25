@@ -13,10 +13,10 @@ Se quiser me conhecer melhor, acesse meu portfólio ou meu blog pessoal ou minha
 
 
 
-## :chart_with_upwards_trend: Redes social
+##  Redes social
 <img src="https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white"/><img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/><img src="https://img.shields.io/badge/Pinterest-8D031C.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>
 
 
-## Gráfico: GitHub Stats
+## :chart_with_upwards_trend: Gráfico  
 ![Stats](https://github-readme-stats.vercel.app/api?username=allanfs1&show_icons=true&include_all_commits)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allanfs1&layout=compact)
