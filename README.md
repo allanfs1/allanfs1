@@ -1,13 +1,11 @@
 ### Ei, bom ver você 👋
 
-
-
 Se quiser me conhecer melhor, acesse meu portfólio ou meu blog pessoal ou minhas redes sociais abaixo
 
 
-[![Loja Badge](https://img.shields.io/badge/Ecommerce-Loja-111111?style="plastic"&logo="Shopify"&logoColor="grren")](https://studio.nandosalles.com.br)
-[![Portifolio Badge](https://img.shields.io/badge/Portfolio-HomePage-0000AA)](https://www.nandosalles.com.br)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fsclaro)](https://twitter.com/fsclaro)
+[![Loja Badge](https://img.shields.io/badge/Ecommerce-Loja-111111?style="plastic"&logo="Shopify"&logoColor="grren")](https://www.atelieguglielmoniloja.com.br)
+[![Portifolio Badge](https://img.shields.io/badge/Portfolio-HomePage-0000AA)](https://allansouza.weebly.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fsclaro)](https://www.instagram.com/allan.guglielmoni/)
 [![Linkedin Badge](https://img.shields.io/badge/-instagram-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/allan.guglielmoni/)](https://www.instagram.com/allan.guglielmoni/)
 
 ## Habilidades
@@ -25,9 +23,7 @@ Se quiser me conhecer melhor, acesse meu portfólio ou meu blog pessoal ou minha
 <img src="https://img.shields.io/badge/NPM-CB3837.svg?&style=for-the-badge&logo=NPM&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
-
-## redes social
-
+## Redes social
 <img src="https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pinterest-8D031C.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>
