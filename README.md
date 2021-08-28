@@ -1,11 +1,10 @@
 [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
 
-### 🅰️ Allan F de Souza
+### :mortar_board:  Allan F de Souza
 <hr>
 
-   ### 🔖 Ei, bom ver você  :mortar_board: 
-   
-   <p> Se quiser me conhecer melhor, acesse meu portfólio ou meu blog pessoal ou minhas redes sociais abaixo</p>
+   ### 🅰️ Ei, bom ver você  
+   <p>🔖 Se quiser me conhecer melhor, acesse meu portfólio ou meu blog pessoal ou minhas redes sociais abaixo</p>
    <img src="img/linux.png" width="45%" align="right">
 
    📈📈 Estatísticas do site
@@ -21,10 +20,9 @@
 
   [![Portifolio Badge](https://img.shields.io/badge/Portfolio-HomePage-0000AA)](https://allansouza.weebly.com)
 
-<br>
 
- ## 📱 Contato
-🔗 [![Linkedin Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=&logoColor=white)](allanfdsz@gmail.com)
+ ## 📱 Contato  [![Linkedin Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=&logoColor=white)](allanfdsz@gmail.com)
+
 
 # Menu
  ## 💻 Especificações do espaço de trabalho ![Tux, the Linux mascot](/img/tenor-32-.gif)
@@ -34,7 +32,8 @@
    <img src="https://img.shields.io/badge/Intel-Core_i5_3.20GHZ-0071C5?style=for-the-badge&logo=intel&logoColor=white"> 
 
 
-  [![Linkedin Badge](https://img.shields.io/badge/-Ubuntu--linux-black?style=flat-square&logo=linux&logoColor=white)](allanfdsz@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-Ubuntu--linux-black?style=flat-square&logo=linux&logoColor=white)](allanfdsz@gmail.com) [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+
     
 ## 🛒 Loja    
  | 🏆 loja                    	|🔗 url                                      	|
@@ -45,8 +44,7 @@
 
 # 🚀 Habilidades
   - [👩‍💻 Languages](#-languages-)
-
-    - [Python](#-python-)
+    - [![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
     - [Java](#-java-)
     - [php](#-php-)
     - [Type-Script](#-php-)
@@ -61,7 +59,7 @@
     - [Slim Framework](#-Slim-)
 
  🎨 Designer
-  - [Web Design](#-WebDesgner-)
+  - [Web Design](#-WebDesgner-) 
 
       <img src="https://aleen42.github.io/badges/src/flash.svg"/>
       <img src="https://aleen42.github.io/badges/src/after_effects.svg"/>
