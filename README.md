@@ -2,7 +2,7 @@
 
 Se quiser me conhecer melhor, acesse meu portfólio ou meu blog pessoal ou minhas redes sociais abaixo
 
-[![Loja Badge](https://img.shields.io/badge/Ecommerce-Loja-111111?style="plastic"&logo="INTERNET"&logoColor="grren")](https://www.atelieguglielmoniloja.com.br)
+
 [![Loja Badge](https://img.shields.io/badge/Ecommerce-Loja-111111?style="plastic"&logo="Shopify"&logoColor="grren")](https://www.atelieguglielmoniloja.com.br)
 [![Portifolio Badge](https://img.shields.io/badge/Portfolio-HomePage-0000AA)](https://allansouza.weebly.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fsclaro)](https://www.instagram.com/allan.guglielmoni/)
