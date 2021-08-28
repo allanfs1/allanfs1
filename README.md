@@ -1,23 +1,17 @@
 [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
 
 ### 🅰️ Allan F de Souza
-
-<br>
-
-### 🔖 Ei, bom ver você  :mortar_board: 
-
-<br>
 <hr>
-
 📈📈 Estatísticas do site
 
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
-
+   ### 🔖 Ei, bom ver você  :mortar_board: 
 
    <p> Se quiser me conhecer melhor, acesse meu portfólio ou meu blog pessoal ou minhas redes sociais abaixo</p>
    <img src="img/linux.png" width="45%" align="right">
 
-   ## 🔗 Redes social
+  [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
+  ## 🔗 Redes social
 
   <img src="https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white"/><img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/><img src="https://img.shields.io/badge/Pinterest-8D031C.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>
 
