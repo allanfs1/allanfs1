@@ -17,8 +17,6 @@
 
   [![Loja Badge](https://img.shields.io/badge/Ecommerce-Loja-111111?style="plastic"&logo="Shopify"&logoColor="grren")](https://www.atelieguglielmoniloja.com.br)   [![Portifolio Badge](https://img.shields.io/badge/Portfolio-HomePage-0000AA)](https://allansouza.weebly.com)
 
- 
- ## 📱 [![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](allanfdsz@gmail.com)
 
 
 # Menu
