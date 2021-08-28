@@ -1,6 +1,6 @@
 [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
 
-### :mortar_board:  Allan F de Souza 
+### :mortar_board:  Allan Ferreira de Souza 
 <hr>
 
    ### 🅰️ Ei, bom ver você  :wave:
@@ -15,13 +15,13 @@
 
   <img src="https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white"/><img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/><img src="https://img.shields.io/badge/Pinterest-8D031C.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>
 
-  [![Loja Badge](https://img.shields.io/badge/Ecommerce-Loja-111111?style="plastic"&logo="Shopify"&logoColor="grren")](https://www.atelieguglielmoniloja.com.br)
+  [![Loja Badge](https://img.shields.io/badge/Ecommerce-Loja-111111?style="plastic"&logo="Shopify"&logoColor="grren")](https://www.atelieguglielmoniloja.com.br)   [![Portifolio Badge](https://img.shields.io/badge/Portfolio-HomePage-0000AA)](https://allansouza.weebly.com)
 
 
-  [![Portifolio Badge](https://img.shields.io/badge/Portfolio-HomePage-0000AA)](https://allansouza.weebly.com)
 
 
- ## 📱 Contato  [![Linkedin Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=&logoColor=white)](allanfdsz@gmail.com)
+
+ ## 📱 [![Linkedin Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=&logoColor=white)](allanfdsz@gmail.com)
 
 
 # Menu
