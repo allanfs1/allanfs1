@@ -1,4 +1,5 @@
-[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
+[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)[![Gists Badge](https://badges.pufler.dev/gists/puf17640)](https://badges.pufler.dev)[![Repos Badge](https://badges.pufler.dev/repos/allanfs1)](https://badges.pufler.dev)[![Years Badge](https://badges.pufler.dev/years/allanfs1)](https://badges.pufler.dev)
+
 
 ### :mortar_board:  Allan Ferreira de Souza 
 <hr>
@@ -7,9 +8,13 @@
    <p>🔖 Se quiser me conhecer melhor, acesse meu portfólio ou meu blog pessoal ou minhas redes sociais abaixo</p>
    <img src="img/linux.png" width="45%" align="right">
 
+  [![Contributors Display](https://badges.pufler.dev/contributors/puf17640/git-badges?size=30&padding=5&bots=true)](https://badges.pufler.dev)
+
    📈 Estatísticas do site
 
    [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
+   
 
   ##  Redes social
 
@@ -40,6 +45,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+   ![Anaconda](https://anaconda.org/conda-forge/markdown-include/badges/version.svg)
+   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
    ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
    ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
