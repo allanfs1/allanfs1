@@ -8,7 +8,7 @@
    <p>🔖 Se quiser me conhecer melhor, acesse meu portfólio ou meu blog pessoal ou minhas redes sociais abaixo</p>
    <img src="img/linux.png" width="45%" align="right">
 
-  [![Contributors Display](https://badges.pufler.dev/contributors/puf17640/git-badges?size=30&padding=1&bots=true)](https://badges.pufler.dev)
+  [![Contributors Display](https://badges.pufler.dev/contributors/allanfs1/git-badges?size=30&padding=1&bots=true)](https://badges.pufler.dev
 
    📈 Estatísticas do site
 
