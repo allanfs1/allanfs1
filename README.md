@@ -56,7 +56,7 @@
  |-------------------------	|------------------------------------------	|
  | Ateliê Guglielmoni Loja 	| https://www.atelieguglielmoniloja.com.br 	|
  | Carmine Online          	| https://www.joiascarmineonline.com.br/   	|
- |                         	|                                          	|
+ | Rhetorica                    | https://www.rhetoricas.com.br                                     	|
 
 
 ## 🚀 Habilidades 
