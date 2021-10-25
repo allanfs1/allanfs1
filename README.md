@@ -3,7 +3,7 @@
 
 ### :mortar_board:  Allan Ferreira de Souza   
 
-<p align="letf"> Quantidades de visitas no meu perfil dede: 25/10/2021</p>
+<p align="letf"> Quantidade de visitas no meu perfil dede: 25/10/2021</p>
 <p align="letf"> <img alingn="center" src="https://profile-counter.glitch.me/allanfs1/count.svg" /></p>
 
 <hr>
